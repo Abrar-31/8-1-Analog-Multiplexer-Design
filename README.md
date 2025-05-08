@@ -1,1 +1,3 @@
-# 8-1-Analog-Multiplexer-Design-
+# 8-1-Analog-Multiplexer-Design
+
+This project presents the design and implementation of an 8:1 multiplexer (mux) analog integrated circuit (IC). The proposed IC is designed to efficiently route one of eight analog input signals to a single output based on digital control inputs. The design employs CMOS technology to achieve low power consumption and high-speed operation. Various design considerations including transistor sizing, layout optimization, and signal routing techniques are discussed to ensure optimal performance. Simulation results demonstrate the functionality and performance of the designed multiplexer, including input signal fidelity, bandwidth, and power efficiency. The proposed IC holds promise for integration into various analog signal processing applications, such as data acquisition systems, sensor interfaces, and communication systems, where efficient signal routing is essential.
